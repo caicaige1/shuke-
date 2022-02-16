@@ -13,3 +13,7 @@ MinGW：提供了一套简单方便的Windows下的基于GCC 程序开发环境�
 
 gcc 环境配置：
 https://www.cxybb.com/article/littlelittleR/121438006
+flask：https://flask.palletsprojects.com/en/0.12.x/config/
+websocket：https://blog.csdn.net/weixin_43796109/article/details/107785164
+主程序：https://github.com/Huang-Shijie-SDUWH/Helpdesk
+特别鸣谢黄施捷
